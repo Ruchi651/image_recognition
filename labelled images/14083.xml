@@ -1,0 +1,26 @@
+<annotation>
+	<folder>output</folder>
+	<filename>14083.jpg</filename>
+	<path>C:\Users\RUCHI SHUKLA\Desktop\Intro\output\14083.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>341</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>safe person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>103</xmin>
+			<ymin>42</ymin>
+			<xmax>254</xmax>
+			<ymax>265</ymax>
+		</bndbox>
+	</object>
+</annotation>

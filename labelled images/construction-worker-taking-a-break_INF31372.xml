@@ -1,0 +1,26 @@
+<annotation>
+	<folder>output</folder>
+	<filename>construction-worker-taking-a-break_INF31372.jpg</filename>
+	<path>C:\Users\RUCHI SHUKLA\Desktop\Intro\output\construction-worker-taking-a-break_INF31372.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>326</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>safe person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>266</xmin>
+			<ymin>12</ymin>
+			<xmax>404</xmax>
+			<ymax>317</ymax>
+		</bndbox>
+	</object>
+</annotation>

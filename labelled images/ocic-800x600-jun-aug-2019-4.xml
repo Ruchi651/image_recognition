@@ -1,0 +1,74 @@
+<annotation>
+	<folder>output</folder>
+	<filename>ocic-800x600-jun-aug-2019-4.jpg</filename>
+	<path>C:\Users\RUCHI SHUKLA\Desktop\Intro\output\ocic-800x600-jun-aug-2019-4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>382</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hard hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>76</xmin>
+			<ymin>76</ymin>
+			<xmax>139</xmax>
+			<ymax>112</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hard hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>164</xmin>
+			<ymin>17</ymin>
+			<xmax>248</xmax>
+			<ymax>83</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hard hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>353</xmin>
+			<ymin>11</ymin>
+			<xmax>451</xmax>
+			<ymax>93</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>safe person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>342</xmin>
+			<ymin>5</ymin>
+			<xmax>494</xmax>
+			<ymax>371</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>safe person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>112</xmin>
+			<ymin>16</ymin>
+			<xmax>243</xmax>
+			<ymax>363</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>output</folder>
+	<filename>worker-on-the-bamboo-scaffold-GE2P00.jpg</filename>
+	<path>C:\Users\RUCHI SHUKLA\Desktop\Intro\output\worker-on-the-bamboo-scaffold-GE2P00.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>377</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>unsafe person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>125</xmin>
+			<ymin>73</ymin>
+			<xmax>180</xmax>
+			<ymax>164</ymax>
+		</bndbox>
+	</object>
+</annotation>

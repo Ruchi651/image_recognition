@@ -1,0 +1,38 @@
+<annotation>
+	<folder>output</folder>
+	<filename>Copy of head-protecton-buying-guide-section-2.jpg</filename>
+	<path>C:\Users\RUCHI SHUKLA\Desktop\Intro\output\Copy of head-protecton-buying-guide-section-2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>safe person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>90</xmin>
+			<ymin>18</ymin>
+			<xmax>309</xmax>
+			<ymax>299</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>safe person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>332</xmin>
+			<ymin>9</ymin>
+			<xmax>505</xmax>
+			<ymax>307</ymax>
+		</bndbox>
+	</object>
+</annotation>

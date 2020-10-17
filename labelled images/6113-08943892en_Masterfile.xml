@@ -1,0 +1,26 @@
+<annotation>
+	<folder>output</folder>
+	<filename>6113-08943892en_Masterfile.jpg</filename>
+	<path>C:\Users\RUCHI SHUKLA\Desktop\Intro\output\6113-08943892en_Masterfile.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>299</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>safe person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>55</xmin>
+			<ymin>16</ymin>
+			<xmax>312</xmax>
+			<ymax>287</ymax>
+		</bndbox>
+	</object>
+</annotation>

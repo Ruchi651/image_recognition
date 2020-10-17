@@ -1,0 +1,62 @@
+<annotation>
+	<folder>output</folder>
+	<filename>74.jpg</filename>
+	<path>C:\Users\RUCHI SHUKLA\Desktop\Intro\output\74.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>262</width>
+		<height>192</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>safe person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>50</ymin>
+			<xmax>46</xmax>
+			<ymax>129</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>safe person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>58</xmin>
+			<ymin>28</ymin>
+			<xmax>96</xmax>
+			<ymax>160</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>safe person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>195</xmin>
+			<ymin>43</ymin>
+			<xmax>239</xmax>
+			<ymax>167</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>safe person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>98</xmin>
+			<ymin>45</ymin>
+			<xmax>127</xmax>
+			<ymax>122</ymax>
+		</bndbox>
+	</object>
+</annotation>

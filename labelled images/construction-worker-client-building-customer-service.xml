@@ -1,0 +1,38 @@
+<annotation>
+	<folder>output</folder>
+	<filename>construction-worker-client-building-customer-service.jpg</filename>
+	<path>C:\Users\RUCHI SHUKLA\Desktop\Intro\output\construction-worker-client-building-customer-service.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>265</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>safe person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>60</xmin>
+			<ymin>37</ymin>
+			<xmax>202</xmax>
+			<ymax>237</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>unsafe person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>234</xmin>
+			<ymin>30</ymin>
+			<xmax>366</xmax>
+			<ymax>245</ymax>
+		</bndbox>
+	</object>
+</annotation>

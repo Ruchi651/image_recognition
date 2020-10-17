@@ -1,0 +1,50 @@
+<annotation>
+	<folder>output</folder>
+	<filename>Cassone_Trailers_The_Important_Uses_of_Storage_Containers_at_a_Construction_IMAGE_1.jpeg</filename>
+	<path>C:\Users\RUCHI SHUKLA\Desktop\Intro\output\Cassone_Trailers_The_Important_Uses_of_Storage_Containers_at_a_Construction_IMAGE_1.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>342</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>safe person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>180</xmin>
+			<ymin>88</ymin>
+			<xmax>250</xmax>
+			<ymax>281</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>safe person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>259</xmin>
+			<ymin>99</ymin>
+			<xmax>307</xmax>
+			<ymax>282</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>safe person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>312</xmin>
+			<ymin>99</ymin>
+			<xmax>366</xmax>
+			<ymax>287</ymax>
+		</bndbox>
+	</object>
+</annotation>

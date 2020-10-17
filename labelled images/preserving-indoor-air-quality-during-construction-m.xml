@@ -1,0 +1,38 @@
+<annotation>
+	<folder>output</folder>
+	<filename>preserving-indoor-air-quality-during-construction-m.jpg</filename>
+	<path>C:\Users\RUCHI SHUKLA\Desktop\Intro\output\preserving-indoor-air-quality-during-construction-m.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>288</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hard hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>116</xmin>
+			<ymin>50</ymin>
+			<xmax>193</xmax>
+			<ymax>91</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hard hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>289</xmin>
+			<ymin>51</ymin>
+			<xmax>352</xmax>
+			<ymax>102</ymax>
+		</bndbox>
+	</object>
+</annotation>

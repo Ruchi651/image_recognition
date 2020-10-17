@@ -1,0 +1,38 @@
+<annotation>
+	<folder>output</folder>
+	<filename>31.jpg</filename>
+	<path>C:\Users\RUCHI SHUKLA\Desktop\Intro\output\31.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>310</width>
+		<height>163</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>safe person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>64</xmin>
+			<ymin>84</ymin>
+			<xmax>86</xmax>
+			<ymax>112</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>safe person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>261</xmin>
+			<ymin>30</ymin>
+			<xmax>301</xmax>
+			<ymax>147</ymax>
+		</bndbox>
+	</object>
+</annotation>

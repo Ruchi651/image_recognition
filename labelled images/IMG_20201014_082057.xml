@@ -1,0 +1,50 @@
+<annotation>
+	<folder>output</folder>
+	<filename>IMG_20201014_082057.jpg</filename>
+	<path>C:\Users\RUCHI SHUKLA\Desktop\Intro\output\IMG_20201014_082057.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>338</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>safe person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>91</xmin>
+			<ymin>51</ymin>
+			<xmax>186</xmax>
+			<ymax>293</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>safe person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>317</xmin>
+			<ymin>37</ymin>
+			<xmax>420</xmax>
+			<ymax>279</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hard hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>89</xmin>
+			<ymin>55</ymin>
+			<xmax>131</xmax>
+			<ymax>92</ymax>
+		</bndbox>
+	</object>
+</annotation>

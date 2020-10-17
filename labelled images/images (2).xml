@@ -1,0 +1,62 @@
+<annotation>
+	<folder>output</folder>
+	<filename>images (2).jpg</filename>
+	<path>C:\Users\RUCHI SHUKLA\Desktop\Intro\output\images (2).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>280</width>
+		<height>180</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>safe person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>66</xmin>
+			<ymin>42</ymin>
+			<xmax>155</xmax>
+			<ymax>178</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hard hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>97</xmin>
+			<ymin>42</ymin>
+			<xmax>141</xmax>
+			<ymax>76</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>safe person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>211</xmin>
+			<ymin>36</ymin>
+			<xmax>272</xmax>
+			<ymax>175</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hard hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>216</xmin>
+			<ymin>37</ymin>
+			<xmax>260</xmax>
+			<ymax>65</ymax>
+		</bndbox>
+	</object>
+</annotation>

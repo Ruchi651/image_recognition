@@ -1,0 +1,38 @@
+<annotation>
+	<folder>output</folder>
+	<filename>indian-construction-workers-unloading-bricks-tractor-site-india-dec-indian-construction-workers-unloading-bricks-168120040.jpg</filename>
+	<path>C:\Users\RUCHI SHUKLA\Desktop\Intro\output\indian-construction-workers-unloading-bricks-tractor-site-india-dec-indian-construction-workers-unloading-bricks-168120040.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>412</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>unsafe person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>134</xmin>
+			<ymin>190</ymin>
+			<xmax>336</xmax>
+			<ymax>384</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>unsafe person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>327</xmin>
+			<ymin>186</ymin>
+			<xmax>475</xmax>
+			<ymax>317</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>output</folder>
+	<filename>ATL_Fiber-Optic-Install-Publishing (1).webp</filename>
+	<path>C:\Users\RUCHI SHUKLA\Desktop\Intro\output\ATL_Fiber-Optic-Install-Publishing (1).webp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>293</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hard hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>213</xmin>
+			<ymin>52</ymin>
+			<xmax>295</xmax>
+			<ymax>108</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hard hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>336</xmin>
+			<ymin>4</ymin>
+			<xmax>488</xmax>
+			<ymax>80</ymax>
+		</bndbox>
+	</object>
+</annotation>

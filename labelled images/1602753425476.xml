@@ -1,0 +1,38 @@
+<annotation>
+	<folder>output</folder>
+	<filename>1602753425476.jpg</filename>
+	<path>C:\Users\RUCHI SHUKLA\Desktop\Intro\output\1602753425476.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>355</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>unsafe person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>137</xmin>
+			<ymin>104</ymin>
+			<xmax>221</xmax>
+			<ymax>160</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>unsafe person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>386</xmin>
+			<ymin>205</ymin>
+			<xmax>426</xmax>
+			<ymax>297</ymax>
+		</bndbox>
+	</object>
+</annotation>

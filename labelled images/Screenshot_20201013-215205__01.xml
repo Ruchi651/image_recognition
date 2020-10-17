@@ -1,0 +1,26 @@
+<annotation>
+	<folder>output</folder>
+	<filename>Screenshot_20201013-215205__01.jpg</filename>
+	<path>C:\Users\RUCHI SHUKLA\Desktop\Intro\output\Screenshot_20201013-215205__01.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>336</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>safe person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>158</xmin>
+			<ymin>45</ymin>
+			<xmax>248</xmax>
+			<ymax>278</ymax>
+		</bndbox>
+	</object>
+</annotation>

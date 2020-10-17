@@ -1,0 +1,38 @@
+<annotation>
+	<folder>output</folder>
+	<filename>depositphotos_219144672-stock-photo-building-worker-posing-photo-construction.jpg</filename>
+	<path>C:\Users\RUCHI SHUKLA\Desktop\Intro\output\depositphotos_219144672-stock-photo-building-worker-posing-photo-construction.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>373</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>safe person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>234</xmin>
+			<ymin>9</ymin>
+			<xmax>471</xmax>
+			<ymax>347</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hard hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>303</xmin>
+			<ymin>11</ymin>
+			<xmax>395</xmax>
+			<ymax>70</ymax>
+		</bndbox>
+	</object>
+</annotation>

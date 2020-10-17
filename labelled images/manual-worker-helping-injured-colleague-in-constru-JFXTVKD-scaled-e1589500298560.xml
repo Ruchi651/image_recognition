@@ -1,0 +1,38 @@
+<annotation>
+	<folder>output</folder>
+	<filename>manual-worker-helping-injured-colleague-in-constru-JFXTVKD-scaled-e1589500298560.jpg</filename>
+	<path>C:\Users\RUCHI SHUKLA\Desktop\Intro\output\manual-worker-helping-injured-colleague-in-constru-JFXTVKD-scaled-e1589500298560.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>370</width>
+		<height>415</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hard hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>189</xmin>
+			<ymin>106</ymin>
+			<xmax>224</xmax>
+			<ymax>146</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hard hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>237</xmin>
+			<ymin>99</ymin>
+			<xmax>278</xmax>
+			<ymax>137</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,50 @@
+<annotation>
+	<folder>output</folder>
+	<filename>images (5).jpg</filename>
+	<path>C:\Users\RUCHI SHUKLA\Desktop\Intro\output\images (5).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>341</width>
+		<height>148</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hard hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>267</xmin>
+			<ymin>25</ymin>
+			<xmax>282</xmax>
+			<ymax>40</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hard hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>29</xmin>
+			<ymin>70</ymin>
+			<xmax>42</xmax>
+			<ymax>81</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hard hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>205</xmin>
+			<ymin>56</ymin>
+			<xmax>215</xmax>
+			<ymax>71</ymax>
+		</bndbox>
+	</object>
+</annotation>

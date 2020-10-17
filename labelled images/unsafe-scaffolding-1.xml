@@ -1,0 +1,38 @@
+<annotation>
+	<folder>output</folder>
+	<filename>unsafe-scaffolding-1.jpg</filename>
+	<path>C:\Users\RUCHI SHUKLA\Desktop\Intro\output\unsafe-scaffolding-1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>339</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>unsafe person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>121</xmin>
+			<ymin>72</ymin>
+			<xmax>207</xmax>
+			<ymax>281</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>unsafe person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>282</xmin>
+			<ymin>72</ymin>
+			<xmax>400</xmax>
+			<ymax>289</ymax>
+		</bndbox>
+	</object>
+</annotation>
